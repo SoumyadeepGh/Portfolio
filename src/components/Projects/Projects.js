@@ -37,7 +37,7 @@ function Projects() {
               isBlog={false}
               title="Netflix-Clone"
               description="A netflix clone made using React.js,driven by my strong passion for the platform"
-              ghLink="https://github.com/SoumyadeepGh/netflix-clone.git"
+              ghLink="https://github.com/SoumyadeepGh/netflixClone.git"
             />
           </Col>
 
