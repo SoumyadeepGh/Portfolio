@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="React Ecommerce"
               description="An Ecommerce ebsite using MERN Stack. The frontend part wwas done by me and the backend part was done by my friend. It was a group project"
-              ghLink="https://github.com/SoumyadeepGh/React-Ecommerce.git"
+              ghLink="https://github.com/SoumyadeepGh/ecommerce3.git"
             />
           </Col>
 
