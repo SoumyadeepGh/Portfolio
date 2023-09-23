@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "site": "my-portfolio-74f84",
+    "public": "src",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
